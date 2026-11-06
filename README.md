@@ -4,7 +4,7 @@
 
 O **UPSkill** é um projeto acadêmico de desenvolvimento de um sistema ERP (*Enterprise Resource Planning*), desenvolvido pelo **Grupo 4**, como parte das atividades propostas pelo Professor Clovis.
 
-O projeto tem como proposta trabalhar conceitos relacionados à modelagem de dados, organização de processos e estruturação de um sistema de gestão empresarial, utilizando documentação técnica e scripts SQL.
+O projeto foi inspirado nos processos administrativos e educacionais da instituição de ensino You Like/INext, na qual um dos integrantes do grupo atua profissionalmente. Essa experiência serviu como referência para a idealização de um sistema ERP voltado à gestão educacional e tem como proposta trabalhar conceitos relacionados à modelagem de dados, organização de processos e estruturação de um sistema de gestão empresarial, utilizando documentação técnica e scripts SQL.
 
 Este repositório reúne os materiais desenvolvidos durante a primeira etapa do projeto.
 
