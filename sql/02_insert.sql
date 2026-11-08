@@ -18,7 +18,7 @@ VALUES
  '(11) 99999-1005', 'pedro@email.com', 'Rua D, 400');
 
 -- PARTE 2 - LEADS E ALUNOS
-INSERT INTO lead
+INSERT INTO leadd
 (id_lead, id_pessoa, origem, data_primeiro_contato, status_lead)
 VALUES
 (1, 1, 'Instagram', '2026-01-10', 'convertido'),
